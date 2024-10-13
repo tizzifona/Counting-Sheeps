@@ -1,0 +1,9 @@
+body {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  color: #0f3e8a;
+}
